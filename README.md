@@ -1,7 +1,7 @@
 # SOC Automation Lab
 
 ## Objective
-The SOC Automation Lab project aimed to establish a controlled environment for simulating, detecting, and responding to cyber incidents. The primary focus was to use a Security Information and Event Management (SIEM) platform in conjuction with Security Orchestration, Automation, and Response (SOAR) capabilities and being able to manage these incidents with a streamline incident response workflow and case management. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+The SOC Automation Lab project aimed to establish a controlled environment for simulating, detecting, and responding to cyber incidents. The primary focus was to use a Security Information and Event Management (SIEM) platform in conjunction with Security Orchestration, Automation, and Response (SOAR) capabilities and being able to manage these incidents with a streamline incident response workflow and case management. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
 
 Wazuh will generate an alert for Mimikatz usage on a system. It will send this to our automation platform Shuffle.io and request enrichment based on file hash from VirusTotal. It will then forward this information to our case management platform TheHive. It will also send an email to an analyst.  It will also send back incident response information to Wazuh to perform that action on the system involved. 
 
