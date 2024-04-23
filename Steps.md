@@ -8,7 +8,7 @@
 ## Created a droplet (AKA VM) with Digital Ocean with Ubuntu 22.04 (LTS) x64. <br>
 <img src="https://github.com/enriquemed23/SOC-Automation-Lab/blob/main/WazuhDroplet.PNG" /> <br>
 ## Then used Putty to login and install Wazuh. <br>
-<img src="https://github.com/enriquemed23/SOC-Automation-Lab/blob/main/WazuhInstall.PNG" /> <br>
+<img src="https://github.com/enriquemed23/SOC-Automation-Lab/blob/main/WazuhInstall1.PNG" /> <br>
 ## <br> Logged into Wazuh web. 
  <img src="https://github.com/enriquemed23/SOC-Automation-Lab/blob/main/WazuhWeb.PNG" /> <br> <br>
 ## Repeated same steps to create VM for TheHive. Installed all <a href="https://github.com/enriquemed23/SOC-Automation-Lab/blob/main/TheHiveInstall">prerequisites</a> and reached TheHive web. <br>
